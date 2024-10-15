@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/manasakc055/unistacx-webs.git/precache-manifest.82df5d48911e472e813b39d98e222d02.js"
+  "/unistacx-webs/precache-manifest.f1474c39c4680edde3cd7dbf6071e253.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/manasakc055/unistacx-webs.git/index.html", {
+workbox.routing.registerNavigationRoute("/unistacx-webs/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
