@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e9badcb4161fc67137aa",
+    "revision": "afe265dd88e179213d6e",
     "url": "/unistacx-webs/static/css/main.befd75f6.chunk.css"
   },
   {
-    "revision": "e9badcb4161fc67137aa",
-    "url": "/unistacx-webs/static/js/main.9e6b0933.chunk.js"
+    "revision": "afe265dd88e179213d6e",
+    "url": "/unistacx-webs/static/js/main.a779f2f1.chunk.js"
   },
   {
     "revision": "d383a8ed2fa8bc3af6a7",
     "url": "/unistacx-webs/static/js/runtime~main.957d6d43.js"
   },
   {
-    "revision": "9f8a43c39ebddfd88c2c",
+    "revision": "0f6f6994016c77b3b9b0",
     "url": "/unistacx-webs/static/css/2.8439f672.chunk.css"
   },
   {
-    "revision": "9f8a43c39ebddfd88c2c",
-    "url": "/unistacx-webs/static/js/2.9336469a.chunk.js"
+    "revision": "0f6f6994016c77b3b9b0",
+    "url": "/unistacx-webs/static/js/2.5fe6f272.chunk.js"
   },
   {
     "revision": "235b968a5a9ca1eceaf5",
@@ -400,7 +400,7 @@ self.__precacheManifest = [
     "url": "/unistacx-webs/static/media/about3_startup.230a7286.jpg"
   },
   {
-    "revision": "e75005f7190b02330cd028d68c17c54b",
+    "revision": "109ea49baff13c14deba9b617b8852bc",
     "url": "/unistacx-webs/index.html"
   }
 ];

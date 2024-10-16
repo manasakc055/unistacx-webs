@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/unistacx-webs/precache-manifest.2d44e066174329f2912471a90bf02c72.js"
+  "/unistacx-webs/precache-manifest.81778815ab7000964c23a93a50831cfe.js"
 );
 
 workbox.clientsClaim();
