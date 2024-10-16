@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b9a3a3200c078c7b877a",
+    "revision": "e9badcb4161fc67137aa",
     "url": "/unistacx-webs/static/css/main.befd75f6.chunk.css"
   },
   {
-    "revision": "b9a3a3200c078c7b877a",
-    "url": "/unistacx-webs/static/js/main.90261905.chunk.js"
+    "revision": "e9badcb4161fc67137aa",
+    "url": "/unistacx-webs/static/js/main.9e6b0933.chunk.js"
   },
   {
     "revision": "d383a8ed2fa8bc3af6a7",
@@ -400,7 +400,7 @@ self.__precacheManifest = [
     "url": "/unistacx-webs/static/media/about3_startup.230a7286.jpg"
   },
   {
-    "revision": "31359f29043ef7a4d324e568166d5a1d",
+    "revision": "e75005f7190b02330cd028d68c17c54b",
     "url": "/unistacx-webs/index.html"
   }
 ];
